@@ -2,7 +2,7 @@
 Custom OpenWrt 25.12.2 firmware and APK repository for ZTE MF286D, built on Linux 6.12.74 (ipq40xx). Includes LuCI, QMI/MBIM modem support, ModemManager, WireGuard, modem tools, HTTPS-enabled package management, plus custom packages apn-web and telegramWrt, ready to use after sysupgrade.
 
 # 📦 OpenWrt 25.12.2 — Custom Firmware & APK Repository
-### by [ilblogdicristiangallo](https://github.com/ilblogdicristiangallo)
+### by [ilblogdicristiangallo](https://www.ilblogdicristiangallo.com)
 
 ---
 
